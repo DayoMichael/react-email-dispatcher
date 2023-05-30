@@ -1,0 +1,24 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/.react-email/src/app/page": [
+      "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/.react-email/src/styles/globals.css",
+      "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/.react-email/src/app/preview/[slug]/page": [
+      "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/.react-email/src/styles/globals.css",
+      "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}"
+    ]
+  },
+  "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/.react-email/src/app/page.tsx": [
+    "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}",
+    "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/.react-email/src/styles/globals.css"
+  ],
+  "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/.react-email/src/app/layout.tsx": [
+    "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}",
+    "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/.react-email/src/styles/globals.css"
+  ],
+  "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/.react-email/src/app/preview/[slug]/page.tsx": [
+    "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}",
+    "/Users/sendbox/Desktop/react-email-dispatcher/react-email-starter/.react-email/src/styles/globals.css"
+  ]
+}
